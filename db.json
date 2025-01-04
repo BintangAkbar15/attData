@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Muhammad Bintang Akbar",
+        "divisi": "app analyst",
+        "tim": "tim 1",
+        "tanggal": "2025-01-01",
+        "status": "RO"
+    },
+    {
+        "nama": "Muhammad Bintang Akbar",
+        "divisi": "app analyst",
+        "tim": "tim 1",
+        "tanggal": "2025-01-02",
+        "status": "izin"
+    },
+    {
+        "nama": "Muhammad Bintang Akbar",
+        "divisi": "app analyst",
+        "tim": "tim 1",
+        "tanggal": "2025-01-03",
+        "status": "sakit"
+    }
+]
