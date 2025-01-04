@@ -1,23 +1,28 @@
-[
+{
+  "tasks": [
     {
-        "nama": "Muhammad Bintang Akbar",
-        "divisi": "app analyst",
-        "tim": "tim 1",
-        "tanggal": "2025-01-01",
-        "status": "RO"
+      "id": 1,
+      "title": "Belajar JavaScript",
+      "description": "Pelajari dasar-dasar JavaScript seperti variabel, fungsi, dan array.",
+      "status": "In Progress",
+      "priority": "High",
+      "due_date": "2025-01-10"
     },
     {
-        "nama": "Muhammad Bintang Akbar",
-        "divisi": "app analyst",
-        "tim": "tim 1",
-        "tanggal": "2025-01-02",
-        "status": "izin"
+      "id": 2,
+      "title": "Kerjakan PR Matematika",
+      "description": "Selesaikan soal dari halaman 45 hingga 50.",
+      "status": "Pending",
+      "priority": "Medium",
+      "due_date": "2025-01-07"
     },
     {
-        "nama": "Muhammad Bintang Akbar",
-        "divisi": "app analyst",
-        "tim": "tim 1",
-        "tanggal": "2025-01-03",
-        "status": "sakit"
+      "id": 3,
+      "title": "Rapat Kelompok",
+      "description": "Diskusikan proyek akhir dengan teman kelompok.",
+      "status": "Completed",
+      "priority": "Low",
+      "due_date": "2025-01-05"
     }
-]
+  ]
+}
